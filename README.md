@@ -1,4 +1,4 @@
-# GTA VI - Fan-Made Website Concept
+# GTA VI - Fan-Made Website
 
 This project is a visually rich, animated, and responsive fan-made website concept for the game Grand Theft Auto VI. It was built using modern web technologies like React and GSAP to create an immersive user experience.
 
