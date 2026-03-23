@@ -159,7 +159,7 @@ const App = () => {
 
             <div className="btmbar absolute bottom-0 left-0 w-full py-15 px-10 bg-linear-to-t from-black to-transparent">
               <div className='flex gap-4 items-center'>
-                <i className="text-4xl ri-arrow-down-line"></i>
+                <i className="arrow text-4xl ri-arrow-down-line"></i>
                 <h3 className='font-[Helvetica_Now_Display] text-white text-xl'>Scroll Down</h3>
               </div>
               <img className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-16.25' src="./ps5.png" alt="" />
